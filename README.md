@@ -1,2 +1,2 @@
 # mp4tomp3
-Converter solution for quick and simple vidуo to audio convertation
+Converter solution for quick and simple video to audio convertation
